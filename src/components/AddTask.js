@@ -14,7 +14,7 @@ const AddTask = ({ onAdd }) => {
     return
   }
 
-  if (reminder == false) {
+  if (reminder === false) {
     alert('Please check box')
     return
   }
