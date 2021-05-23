@@ -1,5 +1,4 @@
 # React-Task-Tracker-App-Local-Data
-React Task Tracker App - Local Array Data
 
 App development done with React and Node.
 
